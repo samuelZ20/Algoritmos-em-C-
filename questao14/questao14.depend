@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744333888 source:c:\users\samue\onedrive\documentos\exercicios\questao14\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
