@@ -1,0 +1,4 @@
+120 Arroz
+80 Feijao
+250 Leite
+50 Açucar
