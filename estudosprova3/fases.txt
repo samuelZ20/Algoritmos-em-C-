@@ -1,0 +1,6 @@
+12 Caverna
+5 Floresta
+20 Castelo
+7 Vila
+15 Torre
+10 Campo
